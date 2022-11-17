@@ -2,6 +2,9 @@
 layout: CV
 title: Arnaud CHANE's CV
 ---
+
+![alt text](https://avatars.githubusercontent.com/u/59416180?v=4 "Mon profil")
+
 # Arnaud CHANE
 Developer, Wild Code School
 
@@ -55,6 +58,6 @@ Enedis
 
 
 ## Hobbies
-- Nouvelles technologies
-- Développement de jeux vidéo (conception,  design, réflexion des mécanismes)
-- Sport
+> Nouvelles technologies
+> Développement de jeux vidéo (conception,  design, réflexion des mécanismes)
+> Sport
