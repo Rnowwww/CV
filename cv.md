@@ -5,11 +5,17 @@ title: Arnaud CHANE's CV
 # Arnaud CHANE
 Developer, Wild Code School
 
+## Presentation
+Dynamique et motivé, j'ai pu acquérir discipline et rigueur grâce à mes expériences à l'étranger ainsi qu'au sein de grandes compagnies françaises.
+Sachant rapidemment m'adapter, je sias me surpasser et faire preuve d'autonomie.
+Pour aider l'entreprise à atteindre ses objectifs, je saurai me montrer créatif et réactif.
+
+
 ## Contacts :
 Email : [arnaud.chane.dev@gmail.com](arnaud.chane.dev@gmail.com "Contactez moi par mail")
 Projets : [Ma page Github](https://github.com/Rnowwww/ "Suivez mes projets")
 
-## Education
+## Formation
 `2019 - Aujourd'hui`
 **Formation de développeur web** :
 [**MDN (Mozilla Developer Network**)](https://developer.mozilla.org/en-US/ "MDN")
@@ -23,7 +29,7 @@ Projets : [Ma page Github](https://github.com/Rnowwww/ "Suivez mes projets")
 `2011`
 **Baccalauréat ES** - Île de la Réunion
 
-## Expériences
+## Expériences Professionnelles
 
 `2020 - 2022`
 ##### Technicien Support HelpDesk et Formateur
@@ -48,7 +54,7 @@ Enedis
 
 
 
-
-
-
-
+## Hobbies
+- Nouvelles technologies
+- Développement de jeux vidéo (conception,  design, réflexion des mécanismes)
+- Sport
